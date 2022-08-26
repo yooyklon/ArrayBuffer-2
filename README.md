@@ -1,1 +1,1 @@
-# ArrayBuffer-2
+[![Build status](https://ci.appveyor.com/api/projects/status/aficll5ce9t8i355?svg=true)](https://ci.appveyor.com/project/yooyklon/arraybuffer-2)
